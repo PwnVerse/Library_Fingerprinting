@@ -1,0 +1,9 @@
+[submodule "bettertls"]
+	path = bettertls
+	url = https://github.com/Netflix/bettertls.git
+[submodule "gnutls"]
+	path = gnutls
+	url = git@github.com:gnutls/gnutls.git
+[submodule "openssl"]
+	path = openssl
+	url = git@github.com:openssl/openssl.git

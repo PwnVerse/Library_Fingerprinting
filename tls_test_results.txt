@@ -1,0 +1,15 @@
+flag provided but not defined: -openssl
+Usage of run-tests:
+  -implementation string
+    	Implementation to test.
+  -outputDir string
+    	Directory to which test results will be written. (default ".")
+  -suite string
+    	Run only the given suite instead of all suites.
+  -testCase value
+    	Run only the given test case(s) in the suite instead of all tests. Requires --suite to be specified as well. Use "123,456-789" syntax to include a range or set of cases.
+panic: flag provided but not defined: -openssl
+
+goroutine 1 [running]:
+main.main()
+	/home/ritvik/Crypto/bettertls/test-suites/cmd/bettertls/main.go:36 +0x3bb
