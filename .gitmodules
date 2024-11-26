@@ -1,6 +1,6 @@
 [submodule "bettertls"]
 	path = bettertls
-	url = https://github.com/Netflix/bettertls.git
+	url = git@github.com:PwnVerse/bettertls.git 
 [submodule "gnutls"]
 	path = gnutls
 	url = git@github.com:gnutls/gnutls.git
